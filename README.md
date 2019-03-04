@@ -1,4 +1,4 @@
-### Fork-de-repositoris
+### Fork de repositoris
 
 Aquest repositori és per fer un exemple de *forking* d'un repositori a GitHub.
 
